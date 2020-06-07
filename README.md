@@ -39,6 +39,6 @@ As per atomic number, and the properties are shown below the element and changes
 ![](https://github.com/chintan-27/Flutter_PeriodicElements_App/blob/master/gifs/20200607_191646.gif)
 
 ## The icon is also custom for iOS and android both
-<img src="https://github.com/chintan-27/Flutter_PeriodicElements_App/blob/master/gifs/Screenshot_20200607-190633.jpg" width="250" height="400" />
+<img src="https://github.com/chintan-27/Flutter_PeriodicElements_App/blob/master/gifs/Screenshot_20200607-190633.jpg" width="250" height="500" />
 
 
